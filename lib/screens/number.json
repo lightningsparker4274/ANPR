@@ -1,0 +1,106 @@
+[
+  {
+    "number_plate": "TN 01 AA 0001",
+    "owner_name": "Karthik",
+    "model": "Swift",
+    "color": "White",
+    "year": 2018
+  },
+  {
+    "number_plate": "TN 01 AB 0002",
+    "owner_name": "Saranya",
+    "model": "Alto",
+    "color": "Red",
+    "year": 2017
+  },
+  {
+    "number_plate": "TN 01 AC 0003",
+    "owner_name": "Manoj",
+    "model": "i20",
+    "color": "Silver",
+    "year": 2019
+  },
+  {
+    "number_plate": "TN 01 AD 0004",
+    "owner_name": "Anitha",
+    "model": "Creta",
+    "color": "Blue",
+    "year": 2020
+  },
+  {
+    "number_plate": "TN 01 AE 0005",
+    "owner_name": "Kumar",
+    "model": "Swift",
+    "color": "Red",
+    "year": 2016
+  },
+  {
+    "number_plate": "TN 01 AF 0006",
+    "owner_name": "Jeeva",
+    "model": "Alto",
+    "color": "White",
+    "year": 2015
+  },
+  {
+    "number_plate": "TN 01 AG 0007",
+    "owner_name": "Vivek",
+    "model": "i20",
+    "color": "Silver",
+    "year": 2020
+  },
+  {
+    "number_plate": "TN 01 AH 0008",
+    "owner_name": "Anjali",
+    "model": "Creta",
+    "color": "Red",
+    "year": 2019
+  },
+  {
+    "number_plate": "TN 01 AI 0009",
+    "owner_name": "Rajesh",
+    "model": "Swift",
+    "color": "Blue",
+    "year": 2017
+  },
+  {
+    "number_plate": "TN 01 AJ 0010",
+    "owner_name": "Sakthi",
+    "model": "Alto",
+    "color": "Red",
+    "year": 2021
+  },
+  {
+    "number_plate": "TN 01 AK 0011",
+    "owner_name": "Saravana",
+    "model": "i20",
+    "color": "White",
+    "year": 2018
+  },
+  {
+    "number_plate": "TN 01 AL 0012",
+    "owner_name": "Jaya",
+    "model": "Creta",
+    "color": "Silver",
+    "year": 2019
+  },
+  {
+    "number_plate": "TN 01 AM 0013",
+    "owner_name": "Krish",
+    "model": "Swift",
+    "color": "Blue",
+    "year": 2020
+  },
+  {
+    "number_plate": "TN 01 AN 0014",
+    "owner_name": "Nithya",
+    "model": "Alto",
+    "color": "Red",
+    "year": 2017
+  },
+  {
+    "number_plate": "TN 01 AO 0015",
+    "owner_name": "Ajith",
+    "model": "Alto",
+    "color": "Red",
+    "year": 2017
+  }]

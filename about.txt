@@ -1,0 +1,15 @@
+# Application Type: Mobile.
+
+# Application Name: ANPR.
+
+# Title:      Advance Number Plate Recognizer.
+
+# About:      Develop a mobile application for number plate recognition to enhance road safety, particularly
+              for the Smart Agni Hackathon..
+
+# Mission:    Develop a web-based Employee Management System (EMS) with enhanced features and efficient UI
+              using the MERN stack.
+
+# Tech Stack: Frontend: Flutter
+              Backend : Node.js(Express)
+              Database: Mongo DB

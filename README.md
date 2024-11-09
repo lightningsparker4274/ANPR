@@ -1,2 +1,2 @@
 # ANPR
-A Flutter Application to ecognize Number Plates
+A Flutter Application to recognize Number Plates
